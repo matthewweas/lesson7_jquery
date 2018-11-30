@@ -13,8 +13,7 @@ Matthew Weas
 This lesson introduces the jQuery framework, which is a JavaScript library
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://matthewweas.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
